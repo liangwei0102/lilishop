@@ -1,7 +1,5 @@
 # Lilishop(PickMall) 开源商城系统
 
-[![GitHub Stars](https://img.shields.io/github/stars/hongyehuicheng/lilishop.svg?style=social&logo=github)](https://github.com/hongyehuicheng/lilishop)
-[![Gitee Stars](https://gitee.com/beijing_hongye_huicheng/lilishop/badge/star.svg?theme=dark)](https://gitee.com/beijing_hongye_huicheng/lilishop)
 <p align="right">
   简体中文 | <a href="./README.en.md">English</a>
 </p>
@@ -37,10 +35,7 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 后端基于 **SpringBoot3** 构建，具备高内聚、低耦合的特性，支持分布式部署。
 前端覆盖PC、H5、小程序和APP，基于 **Vue** 和 **uni-app** 开发。
 
--   **官方网站**: <https://pickmall.cn>
--   **官方文档**: <https://docs.pickmall.cn>
--   **Gitee 仓库**: <https://gitee.com/beijing_hongye_huicheng/lilishop>
--   **GitHub 仓库**: <https://github.com/lilishop/lilishop>
+-   **文档**: <https://docs.pickmall.cn>
 
 
 ---
@@ -138,16 +133,5 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 1.  **开源协议**: 本项目遵循 `AGPL-3.0` 开源协议。
 2.  **使用范围**: 仅允许用于个人学习、研究和非商业用途。
 3.  **禁止行为**: 禁止将本项目的代码和资源用于任何形式的商业销售。
-4.  **商业授权**: 如需商业使用，必须获得官方授权。授权为一次性永久授权，并提供持续的版本升级服务。详情请联系官网客服。
-5.  **软件著作权**: 本软件受国家计算机软件著作权保护（登记号：2021SR0805085）。
 
----
 
-### 8. 社区与支持
-
-我们欢迎任何形式的交流与贡献。在提问前，请先查阅 [官方文档](https://docs.pickmall.cn/) ，并参考 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 以便高效沟通。
-
--   **[在线客服](https://work.weixin.qq.com/kfid/kfc4d8dc24a73c15f44)**
--   **微信交流1群（已满）**
--   **微信交流2群**:
-    ![微信群](https://lilishop-wechat.oss-cn-beijing.aliyuncs.com/wechat.jpg)
